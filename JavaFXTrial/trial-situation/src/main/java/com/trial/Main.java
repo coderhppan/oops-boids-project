@@ -306,7 +306,7 @@ final class SimulationConfig {
     };
     static final double RAY_LENGTH = 90.0;
     static final double SAFETY_MARGIN = 0.0;
-    static final double OBSTACLE_AVOIDANCE_WEIGHT = 10.0;gi
+    static final double OBSTACLE_AVOIDANCE_WEIGHT = 10.0;
     static final double SEPARATION_WEIGHT = 2.3;
     static final double ALIGNMENT_WEIGHT = 1.0;
     static final double COHESION_WEIGHT = 0.5;
